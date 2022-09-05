@@ -1,0 +1,19 @@
+Causality,RFE,BE,FC
+Close.L1,Vol.L4,EPS_High.L1,Close.L1
+Close.L2,Vol.L5,EPS_High.L4,Close.L2
+Close.L3,Vol.L11,EPS_High.L6,Close.L3
+Close.L4,Vol.L12,EPS_High.L9,Close.L4
+Close.L5,Vol.L13,EPS_High.L15,Close.L5
+Close.L6,Vol.L17,EPS_High.L18,Close.L6
+Close.L7,Vol.L18,# Sell.L1,Close.L7
+Close.L8,% Hold.L4,# Sell.L16,Close.L8
+Close.L9,% Hold.L7,% Sell.L1,Close.L9
+Close.L10,Rating.L3,% Sell.L16,Close.L10
+Close.L11,Rating.L4,Mkt Cap.L1,Close.L11
+Close.L12,Rating.L5,Mkt Cap.L4,Close.L12
+EPS_High.L1,Rating.L14,Mkt Cap.L7,Close.L13
+% Buy.L1,Rating.L15,Mkt Cap.L10,Close.L14
+% Hold.L1,Rating.L16,Mkt Cap.L17,Close.L15
+Rating.L1,Rating.L20,Mkt Cap.L18,Adj. Close.L1
+,,EPS_Avg.L1,
+,,EPS_Avg.L16,c

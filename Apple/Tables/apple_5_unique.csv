@@ -1,0 +1,6 @@
+RFE,BE,FC
+Vol.L1,EPS - Est High (NTM).L1,Close.L1
+% Sell.L1,# Sell.L1,Adj. Close.L1
+% Hold.L1,% Sell.L1,Mkt Cap.L1
+Rating.L1,Mkt Cap.L1,EPS - Est Avg (NTM).L1
+std_5days.L1,EPS - Est Avg (NTM).L1,# Sell.L1

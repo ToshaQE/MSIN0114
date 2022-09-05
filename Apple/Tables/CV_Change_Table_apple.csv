@@ -1,0 +1,5 @@
+Index,Estimator,% Change in CV Error,% of Features Dropped
+0,LinearRegression,-0.4857522237392331,37.5
+1,RandomForestRegressor,-0.2805468897787544,12.5
+2,XGBRegressor,-0.2805468897812413,12.5
+3,LGBMRegressor,-0.5643553089263786,75.0
